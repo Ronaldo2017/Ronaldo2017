@@ -2,7 +2,11 @@
 # 👋 Olá, eu sou o Ronaldo Luis da Costa!
 
 ## 👨‍💻 Sobre mim
-Sou apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de evoluir meus conhecimentos e contribuir com projetos de forma colaborativa.
+Entusiasmo intenso por tecnologia e desenvolvimento web!
+
+Sou curioso e estou sempre explorando novas ferramentas, aprimorando meus conhecimentos e contribuindo em projetos que geram impacto.
+Gosto de desafios que me fazem crescer e estou sempre aberto a criar soluções inovadoras.
+
 
 ## 🎓 Formação
   - Análise e Desenvolvimento de Sistemas
@@ -29,7 +33,7 @@ Sou apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de ev
 
 ## 📚 Atualmente aprendendo
   - JavaScript
-  - NodeJs
+  - Node.Js
 ---
 
 
