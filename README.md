@@ -9,6 +9,7 @@ Sou apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de ev
 
 
 ![👀 Procurando Oportunidades](https://img.shields.io/badge/👀%20Procurando-Oportunidades-blue?style=for-the-badge)
+- Desenvolvedor Web Full Stack
 
 ---
 
@@ -19,7 +20,7 @@ Sou apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de ev
 - ## 🛠️ Ferramentas que utilizo
   - Git e GitHub
     
-## 🚀 Base em
+## 🚀 Boa base prática e teórica, evoluindo continuamente em
   - Sql
   - Mysql
   - SqlServer
@@ -39,7 +40,7 @@ Sou apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de ev
 ---
 
 ## 📫 Como me encontrar
- [![Email](https://img.shields.io/badge/Email-Enviar%20?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldo_so10@hotmail.com)
+ [![Email](https://img.shields.io/badge/Hotmail-Enviar%20?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0072C6)](mailto:ronaldo_so10@hotmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-costa-80332776/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eusouronaldocosta) 
 
