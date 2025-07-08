@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou o Ronaldo Luis da Costa!
+# 👋 Olá, sou o Ronaldo Luis da Costa!
 
 ## 👨‍💻 Sobre mim
 Entusiasmo intenso por tecnologia e desenvolvimento web!
@@ -18,16 +18,15 @@ Gosto de desafios que me fazem crescer e estou sempre aberto a criar soluções 
 ---
 
 ## 🚀 Tecnologias que domino
-- Web
-  - Html, CSS3
+### Habilidades
+  - Html
+  - CSS3
+    ##### Bancos de Dados
+      - MySQL  
+      - SQL Server
     
 - ## 🛠️ Ferramentas que utilizo
   - Git e GitHub
-    
-## 🚀 Boa base prática e teórica, evoluindo continuamente em
-  - Sql
-  - Mysql
-  - SqlServer
 
 ---
 
