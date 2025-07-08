@@ -21,7 +21,7 @@ Gosto de desafios que me fazem crescer e estou sempre aberto a criar soluções 
 ### Habilidades
   - Html
   - CSS3
-    ##### Bancos de Dados
+    #### Bancos de Dados
       - MySQL  
       - SQL Server
     
